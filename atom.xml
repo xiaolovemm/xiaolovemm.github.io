@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xiaolovemm.github.io</id>
+    <title>野.</title>
+    <updated>2023-03-11T14:27:32.261Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xiaolovemm.github.io"/>
+    <link rel="self" href="https://xiaolovemm.github.io/atom.xml"/>
+    <subtitle>&lt;hl&gt;生活磨减英雄誌，大風吹走男兒夢&lt;/hl&gt;</subtitle>
+    <logo>https://xiaolovemm.github.io/images/avatar.png</logo>
+    <icon>https://xiaolovemm.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 野.</rights>
+    <entry>
+        <title type="html"><![CDATA[照片]]></title>
+        <id>https://xiaolovemm.github.io/post/图片/</id>
+        <link href="https://xiaolovemm.github.io/post/图片/">
+        </link>
+        <updated>2023-10-02T16:00:00.000Z</updated>
+    </entry>
+</feed>
