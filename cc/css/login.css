@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	display: flex;
+	justify-content: center;
+	background-color: #000;
+	height: auto;
+	width: 100%;
+        }
+.hezi .right .login .box-body {
+}
+        .hezi{
+	position: relative;
+	top: 100px;
+	width: 1300px;
+	height: 550px;
+	box-shadow: 0 5px 15px rgba(0,0,0,.8);
+	display: flex;
+	margin-top: -45px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: 85px;
+        }
+        .left{
+            width: 800px;
+            height: 550px;
+           
+           
+            background-size: cover;
+        }
+        .right{
+	width: 550px;
+	height: 550px;
+	background-color: white;
+	justify-content: center;
+	align-items: center;
+        }
+.hezi .right .login .box-body {
+	height: 500px;
+	width: 350px;
+}
+        .login{
+            width: 250px;
+            height: 500px;
+        }
+        .f:hover:hover{
+            color:#ffcc00;
+        }
+        .login>h1{
+            font: 900 30px '';
+            text-align: center;
+        }
+        .e{
+            width: 230px;
+            margin: 25px 0;
+            outline: none;
+            
+            border: 0;
+            padding: 10px;
+            border-bottom: 3px solid pink;
+            font: 900 16px '';
+        }
+        .f{
+            float: right;
+            margin: 10px 0;
+            text-decoration: none;
+        }
+        .g{
+	position: absolute;
+	bottom: 40px;
+	display: block;
+	width: 200px;
+	height: 60px;
+	text-decoration: none;
+	line-height: 50px;
+	border-radius: 30px;
+	background-image: url(img/10.jpg);
+	text-align: center;
+	background-repeat: no-repeat;
+	font-family: '';
+	font-size: 30px;
+	font-weight: 900;
+	color: #F9F9F9;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 80px;
+        }
+		.number {width:30px; height:25px; background-color:# CCC; color:#fff; float:left; text-align:center; font-size:16px; padding-top:5px; font-weight:bold; margin:5px; cursor:pointer;}
+.rot_bg {
+	width: 80px;
+	height: 30px;
+	background-color: # CCC;
+	position: absolute;
+	left: 4px;
+	top: 506px;
+}
+.adver {width:426px; height:224px; border:1px solid #CCC;}
+.numberover {width:30px; height:30px; background-color:#fff;font-size:14px; text-align:center; float:left;padding-top:10px; margin:5px;}
+    .hezi .rot_bg input {
+	color: #FFF;
+	background-color: #0FF;
+	border-radius: 30px;
+	position: absolute;
+	height: 50px;
+	width: 100px;
+	padding-left: 0px;
+	margin-top: -10px;
+}
+
+
+
+.hezi .right .login h2 {
+	text-align: center;
+}
+.hezi .right .login .box-body form table tr td .g {
+	background-image: url(../img/10.jpg);
+}
